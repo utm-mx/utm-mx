@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Universidad Tecnológica de la Mixteca
 
-You can use the [editor on GitHub](https://github.com/utm-mx/utm-mx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Repositorio de proyectos por los estudiantes y profesores de la [UTM](http://www.utm.mx).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Colaboraciones 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Si deseas unirte a la organización debes, obviamente, tener una cuenta en GitHub. Crea un **issue** en este repositorio y proporciona:
 
-```markdown
-Syntax highlighted code block
+*   tu nombre
+*   carrera que estás estudiando o egresaste (o si eres profesor)
 
-# Header 1
-## Header 2
-### Header 3
+#### Proyectos
 
-- Bulleted
-- List
+Puedes compartir los proyectos que desees y piensas que le serán útiles a los actuales y futuros estudiantes. Proyectos "hola mundo" o "testeando github" no serán aceptados.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utm-mx/utm-mx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
