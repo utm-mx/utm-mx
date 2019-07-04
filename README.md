@@ -1,6 +1,6 @@
 ## Universidad Tecnológica de la Mixteca
 
-Repositorio de proyectos por los estudiantes y profesores de la [UTM](http://www.utm.mx).
+Repositorios de proyectos creados por estudiantes y profesores de la [UTM](http://www.utm.mx).
 
 
 ### Colaboraciones 
@@ -12,5 +12,8 @@ Si deseas unirte a la organización debes, obviamente, tener una cuenta en GitHu
 
 #### Proyectos
 
-Puedes compartir los proyectos que desees y piensas que le serán útiles a los actuales y futuros estudiantes. Proyectos "hola mundo" o "testeando github" no serán aceptados.
+Puedes compartir los proyectos que desees y pienses que le serán útiles a los actuales y futuros estudiantes. Proyectos "hola mundo" o "testeando github" no serán aceptados.
 
+Muy bienvenidos serán soluciones a problemas [ACM-ICPC](https://icpc.baylor.edu/worldfinals/problems), proyectos presentados en conferencias IEEE ACM, CLOSER, et al.
+
+¡A darle que es mole de olla! 
