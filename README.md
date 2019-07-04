@@ -14,6 +14,9 @@ Si deseas unirte a la organización debes, obviamente, tener una cuenta en GitHu
 
 Puedes compartir los proyectos que desees y pienses que le serán útiles a los actuales y futuros estudiantes. Proyectos "hola mundo" o "testeando github" no serán aceptados.
 
-Muy bienvenidos serán soluciones a problemas [ACM-ICPC](https://icpc.baylor.edu/worldfinals/problems), proyectos presentados en conferencias IEEE ACM, CLOSER, et al.
+Muy bienvenidas serán soluciones a problemas [ACM-ICPC](https://icpc.baylor.edu/worldfinals/problems), proyectos presentados en conferencias IEEE, ACM, CLOSER, et al.
 
 ¡A darle que es mole de olla! 
+
+<br><br><br>
+Dudas, preguntas, comentarios? Crea un **issue**!
