@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
+title: Minimal theme
+logo: /assets/img/logo.png
 description: Proyectos creados por estudiantes y profesores de la UTM
+theme: jekyll-theme-minimal
