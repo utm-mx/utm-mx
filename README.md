@@ -5,7 +5,7 @@ Repositorios de proyectos creados por estudiantes y profesores de la [UTM](http:
 
 ### Colaboraciones 
 
-Si deseas unirte a la organización debes, obviamente, tener una cuenta en GitHub. Crea un **issue** en este repositorio y proporciona:
+Si deseas unirte a la organización debes, obviamente, tener una cuenta en GitHub. Crea un [issue](https://github.com/utm-mx/utm-mx.github.io/issues/new) en este repositorio y proporciona:
 
 *   tu nombre
 *   carrera que estás estudiando o egresaste (o si eres profesor)
@@ -19,4 +19,4 @@ Muy bienvenidas serán soluciones a problemas [ACM-ICPC](https://icpc.baylor.edu
 ¡A darle que es mole de olla! 
 
 <br><br><br>
-Dudas, preguntas, comentarios? Crea un **issue**!
+Dudas, preguntas, comentarios? Crea un [issue](https://github.com/utm-mx/utm-mx.github.io/issues/new)!
